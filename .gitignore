@@ -57,3 +57,6 @@ input/cdb_files/Cdb_9.csv
 input/cdb_files/Cdb_10.csv
 input/best_genomes/bins_clusters_2nd_raund.sh
 Clusters_table.ipynb
+results/fLayer_table.xlsx
+input/flayer_bins_list.csv
+Clusters_table.ipynb
