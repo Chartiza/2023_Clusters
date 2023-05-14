@@ -65,3 +65,16 @@ input/final_best_genomes.csv
 results/FINAL_only_best_genomes.xlsx
 results/FINAL_only_the_best_genomes_m.xlsx
 results/FINAL_all_bins_all_clusters.xlsx
+input/gtdbtk.bac120.summary.tsv
+FINAL_all_bins_all_clusters.xlsx
+FINAL_only_best_genomes.xlsx
+FINAL_only_the_best_genomes_m.xlsx
+input/only_best_genomes.csv
+input/only_the_best_genomes_m.csv
+results/only_best_genomes.xlsx
+results/only_the_best_genomes_m.xlsx
+FINAL_tables/FINAL_all_bins_all_clusters_m.xlsx
+FINAL_tables/FINAL_only_the_best_genomes.xlsx
+results/!FINAL_all_bins_all_clusters.xlsx
+results/!FINAL_only_the_best_genomes_m.xlsx
+results/FINAL_TABLE.xlsx
